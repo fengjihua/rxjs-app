@@ -29,5 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## 怎么让程序跑起来？
 
 `cd rxjs-app`
+
 `npm install`
+
 `npm start`
